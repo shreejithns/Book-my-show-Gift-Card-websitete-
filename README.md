@@ -13,3 +13,5 @@ This is clone of BookMyShow.com.We have used HTML, CSS, Advance Javascript, Reac
 4. One can Sort and Filter the product according to the gender and brand of different products.
 
 5. All the data is stored in the back-end data of the User. 
+
+6. you can choose and view the gift card  and all details about gift cards
